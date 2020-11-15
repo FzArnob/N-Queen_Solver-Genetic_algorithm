@@ -17,18 +17,18 @@ v. Used Libraries: random, sys
 
 
 # Sample Output
-Enter Number of Queens: 8
+Enter Number of Queens: 8  
 
-Dimension :  8 X 8 
-Population :  10 
+Dimension :  8 X 8  
+Population :  10  
 
-Enter Maximun Generation Count: 20000
+Enter Maximun Generation Count: 20000  
 
-Generation : [============================                      ]  57% > Count: 11545
+Generation : [============================                      ]  57% > Count: 11545  
 
-Solution :  [8, 2, 4, 1, 7, 5, 3, 6]
+Solution :  [8, 2, 4, 1, 7, 5, 3, 6]  
 
-Solution Board:
+Solution Board:  
 ⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜  
 ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜  
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛  

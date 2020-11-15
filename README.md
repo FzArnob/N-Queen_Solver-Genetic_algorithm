@@ -15,3 +15,25 @@ v. Used Libraries: random, sys
 
 # Computation Threshold is 0.03
 
+
+# Sample Output
+Enter Number of Queens: 8
+
+Dimension :  8 X 8 
+Population :  10 
+
+Enter Maximun Generation Count: 20000
+
+Generation : [============================                      ]  57% > Count: 11545
+
+Solution :  [8, 2, 4, 1, 7, 5, 3, 6]
+
+Solution Board:
+⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜
+⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛
+⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬜ ⬜
+⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬜ ⬜
+⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬛ ⬜
+⬜ ⬛ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+⬜ ⬜ ⬜ ⬛ ⬜ ⬜ ⬜ ⬜
